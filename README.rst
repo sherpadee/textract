@@ -13,9 +13,8 @@ Extract text from any document. No muss. No fuss.
 Update for > OSX High Sierra
 
 1. First: ```brew reinstall swig python```
-2. Then:  ```pip install pocketsphinx```
-3. Then: ```pip install git+https://github.com/sherpadee/textract```
-4. Success ;)
+2. Then: ```pip install git+https://github.com/sherpadee/textract```
+3. Success ;)
 
 
 `Full documentation <http://textract.readthedocs.org>`__.
